@@ -13,9 +13,9 @@ public class Main{
 
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/java_2026";
 
-    private static final String DB_USER = "proverka";
+    private static final String DB_USER = "postgres";
 
-    private static final String DB_PASSWORD = "0123456789";
+    private static final String DB_PASSWORD = "Manstera01";
 
     public static void main(String[] args) {
 
